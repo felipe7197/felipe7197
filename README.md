@@ -2,7 +2,6 @@
 Sou formado em Analise de desenvolvimento de sistemas pela Universidade Presbiteriana Mackenzie.Atualmente sou técnico de suporte em T.I., com experiência em manutenção de sistemas, suporte a usuários e infraestrutura tecnológica. Estou me especializando em desenvolvimento backend, buscando aprimorar minhas habilidades em programação e construção de APIs modernas e escaláveis.
 
 💻 O que estou aprendendo atualmente:
-
 Python para desenvolvimento backend
 
 FastAPI e Flask para criação de APIs modernas e performáticas
@@ -51,7 +50,6 @@ felipe.alefh12@gmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="MySQL logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="GitHub logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="VSCode logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" alt="Linux logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="50" alt="Windows logo" />
 </div>
